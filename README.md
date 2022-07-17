@@ -16,8 +16,8 @@
 
 ### Links
 
-- Solution URL: [solution here]()
-- Live Site URL: [live site here]()
+- Solution URL: [solution here](https://github.com/gp0710/fetchAPISandbox)
+- Live Site URL: [live site here](https://gp0710.github.io/fetchAPISandbox/)
 
 ## What I Learned
 - Start with HTML boilerplate
