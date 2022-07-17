@@ -11,8 +11,8 @@
 
 ## Overview
 
--Practice using Javascript DOM functions
--Learn to fetch data from a text file and API
+- Practice using Javascript DOM functions
+- Learn to fetch data from a text file and API
 
 ### Links
 
